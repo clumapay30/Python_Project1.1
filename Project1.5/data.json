@@ -1,0 +1,18 @@
+{
+    "dwaynede": {
+        "firstName": "Dwayne",
+        "lastName": "Garcia",
+        "email": "dg@gmail.com",
+        "phone": 92131234,
+        "username": "dwaynede",
+        "password": "password"
+    },
+    "clumapay": {
+        "firstName": "Christian",
+        "lastName": "Lumapay",
+        "email": "clumapay@mail.com",
+        "phone": 92131234,
+        "username": "clumapay",
+        "password": "password"
+    }
+}

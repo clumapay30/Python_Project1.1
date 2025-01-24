@@ -1,0 +1,18 @@
+{
+    "user": {
+        "email": "test1@mail.com",
+        "password": "test"
+    },
+    "website": {
+        "email": "test2@gmail.com",
+        "password": "test"
+    },
+    "christian": {
+        "email": "christian@email.com",
+        "password": "testing"
+    },
+    "optimus": {
+        "email": "gg@gmail.com",
+        "password": "test"
+    }
+}

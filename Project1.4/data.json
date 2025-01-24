@@ -1,0 +1,38 @@
+{
+    "clumapay1": {
+        "password": "clumapay1pass",
+        "First Name": "Christian",
+        "Last Name": "Lumapay",
+        "Email": "christian@gmail.com",
+        "Phone": 123
+    },
+    "user2": {
+        "password": "pass2",
+        "First Name": "user2",
+        "Last Name": "user2",
+        "Email": "user2@email.com",
+        "Phone": 123563
+    },
+    "user3": {
+        "password": "password",
+        "First Name": "tes",
+        "Last Name": "ting",
+        "Email": "testing@mail.com",
+        "Phone": 123
+    },
+    "user4": {
+        "password": "pass4",
+        "First Name": "tes",
+        "Last Name": "ting3",
+        "Email": "testing3@mail.com",
+        "Phone": 123467,
+        "Status": "logout"
+    },
+    "user5": {
+        "password": "pass5",
+        "First Name": "test5",
+        "Last Name": "testing5",
+        "Email": "testtt@mail.com",
+        "Phone": 123455
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "dwaynede": {
+        "firstname": "Dwayne",
+        "lastname": "Garcia",
+        "email": "dwaynde@mail.com",
+        "username": "dwaynede",
+        "password": "dwaynedepassword"
+    },
+    "user1": {
+        "firstname": "Christian",
+        "lastname": "Lumapay",
+        "email": "clumapay@mail.com",
+        "username": "user1",
+        "password": "password"
+    },
+    "user2": {
+        "firstname": "Chris",
+        "lastname": "Tian",
+        "email": "chan@mail.com",
+        "username": "user2",
+        "password": "password"
+    }
+}
