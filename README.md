@@ -5,4 +5,4 @@
 ______________________________________________
 
 #### Project1.1 - v1 to v10
-##### Practice OOP and postgreSQL database
+Practice OOP with postgreSQL database
